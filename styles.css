@@ -2,8 +2,4 @@ body {
   background-image: url("sp-repeat.jpg");
   font-family: Georgia, "Times New Roman", serif;
 }
-p  {
-  font-size: 1rem;
-  margin:1rem 0;
-	line-height:1.5rem;
-}
+
