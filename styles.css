@@ -3,3 +3,8 @@ body {
   font-family: Georgia, "Times New Roman", serif;
 }
 
+.content {
+  padding: 2em;
+  margin: 2em;
+  background-color: white;
+}
