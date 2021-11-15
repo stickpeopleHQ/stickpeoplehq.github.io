@@ -5,8 +5,8 @@ body {
 }
 
 .content {
-  padding: 2em;
-  margin: 6em 2em 6em 2em;
+  padding: 5vmin;
+  margin: 5vmin;
   background-color: white;
   max-width: 650px;
 }
