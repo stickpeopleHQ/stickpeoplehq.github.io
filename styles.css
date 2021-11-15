@@ -6,7 +6,7 @@ body {
 
 .content {
   padding: 5vmin;
-  margin: 5vmin;
+  margin: 10vmin 5vmin 10vmin 5vmin;
   background-color: white;
   max-width: 650px;
 }
